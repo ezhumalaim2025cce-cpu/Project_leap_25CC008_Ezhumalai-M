@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ProjectLeap25cc008EzhumalaiMApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ProjectLeap25cc008EzhumalaiMApplication.class, args);
+
 	}
 
 }
